@@ -39,4 +39,4 @@ class LeetCode2 {
 
 }
 //LeetCode 2. Add Two Numbers
-//Case l1 = [2,4,3] | l2 = [5,6,4]
+//Case l1 = [2,4,3] | l2 = [5,6,2]
